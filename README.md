@@ -8,7 +8,6 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
@@ -30,8 +29,6 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-- Data Analytics  
-
 ---
 
 ## 🛠️ Important Links & Tools:
@@ -62,15 +59,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
@@ -108,10 +96,22 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## 👨‍💻 About Me  
 
-Hi there! I'm ** Atharv Waghmare**
+I'm an aspiring **Data Engineer / Analyst** passionate about building scalable data solutions, modern warehouses, and deriving meaningful business insights. Connect with me on:
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
-Linkedin: https://www.linkedin.com/in/atharv-waghmare-b12ab81b1/
+- [GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/atharv-waghmare-b12ab81b1/)
+
+---
+
+## 🌟 Give it a ⭐  
+
+If you find this project valuable, consider **starring** ⭐ this repository to support my work!
+
+---
+
+## ✅ Summary  
+
+This project offers a **realistic and industry-relevant demonstration of data warehousing and analytics techniques**, from **data ingestion to actionable business insights**, designed for **portfolio building and interview readiness**.
 
