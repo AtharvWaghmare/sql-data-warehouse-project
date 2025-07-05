@@ -98,7 +98,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 I'm an aspiring **Data Engineer / Analyst** passionate about building scalable data solutions, modern warehouses, and deriving meaningful business insights. Connect with me on:
 
-- [GitHub]([https://github.com/](https://github.com/AtharvWaghmare))
+- [GitHub](https://github.com/AtharvWaghmare)
 - [LinkedIn](https://www.linkedin.com/in/atharv-waghmare-b12ab81b1/)
 
 ---
